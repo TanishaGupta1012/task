@@ -23,6 +23,9 @@ public class SignUpActivity extends AppCompatActivity {
     TextView dob;
     RadioGroup radioGroup;
     RadioButton radioButton;
+    RadioButton male,female,other;
+    UserPojo userPojo;
+
     Button signUp;
 
     @Override

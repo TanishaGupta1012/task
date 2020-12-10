@@ -75,8 +75,8 @@
         android:id="@+id/signUp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Verify"
+        android:text="SignUp"
         android:background="@drawable/buttonbackground"
         android:layout_margin="30dp"
-        android:layout_below="@+id/radio"/>
+        android:layout_below="@+id/radioGroup"/>
 </RelativeLayout>
